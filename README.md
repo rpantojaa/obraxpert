@@ -3,7 +3,7 @@
 
 ##Descrição
 
-O Web Project Homeland é uma página responsiva contendo os seguintes formatos de tela: 1280px, 1024px, 768px, 544px e 320px. Sendo 1024px 544px considerados breakpoints para não obter uma quebra brusca nas transições dos tamanhos
+Esse projeto responsivo é referente a página web da minha empresa OBRAXPERT SOLUTION LTDA. Nele estará contido todas as informações referente a empresa. Projeto feito em HTML e CSS, utilizando a linguagem de programação JavaScript.
 
 
 ##Tecnologias Utilizadas
@@ -16,4 +16,4 @@ Uma boa prática de implementação seria ter uma opção para icluir outras ima
 
 ##Link para a Pagina 
 
-https://rpantojaa.github.io/web_project_homeland/
+https://rpantojaa.github.io/obraxpert/
